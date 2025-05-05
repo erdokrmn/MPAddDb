@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3AqYT1fP/jfWK3GIyq8REcrfMBelvgyqodT77h4Lsx/Bs2or/35CEMVTzn+dFk7PEH2bWg6SQRo/Rw7guVK8hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erdo\\Documents\\ASP.NET\\DecodeAI\\MPAddDb\\MPAddDb\\MPAddDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erdo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\selenium.support\\4.32.0\\selenium.support.4.32.0.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\selenium.webdriver\\4.32.0\\selenium.webdriver.4.32.0.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\selenium.webdriver.chromedriver\\136.0.7103.4900\\selenium.webdriver.chromedriver.136.0.7103.4900.nupkg.sha512",
+    "C:\\Users\\erdo\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
